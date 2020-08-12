@@ -7,7 +7,8 @@ import (
 	"time"
 
 	"github.com/jackc/pgconn"
-	"github.com/jackc/pgx/v4"
+	//"github.com/jackc/pgx/v4"
+	"github.com/jackc/pgx"
 	"github.com/jackc/puddle"
 	errors "golang.org/x/xerrors"
 )
